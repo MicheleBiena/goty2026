@@ -5,5 +5,10 @@
   "votingEnabled": true,
   "publicModeEnabled": true,
   "soundEnabled": false,
-  "logo": "assets/branding/logo.png"
+  "logo": "assets/branding/logo.png",
+  "votingProvider": "google",
+  "supabase": {
+    "url": "",
+    "publishableKey": ""
+  }
 }

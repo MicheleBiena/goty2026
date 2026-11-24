@@ -1,6 +1,6 @@
 # GOTYFROMHOENN — Nomination Reveal
 
-Webapp statica per annunciare le nomination in diretta e consultarle dopo l'evento. Non contiene votazioni interne, classifiche o risultati. Le categorie e le nomination sono state importate dal modulo Google; gli artwork includono immagini locali dei giochi e della community; le immagini sono sostituibili.
+Webapp statica per annunciare le nomination in diretta e consultarle dopo l'evento. La raccolta voti puo usare Google Forms oppure Supabase con accesso Twitch; non vengono pubblicati risultati. Le categorie e le nomination sono state importate dal modulo Google; gli artwork includono immagini locali dei giochi e della community; le immagini sono sostituibili.
 
 ## Avvio locale
 
@@ -29,6 +29,8 @@ python -c "import json,qrcode; c=json.load(open('config.json',encoding='utf-8-si
 ```
 
 Tutti i collegamenti aprono il modulo in una nuova scheda; il modulo non è incorporato.
+
+La modalita di voto interna con Supabase e Twitch e predisposta ma disattivata: istruzioni in `supabase/README.md`.
 
 ## Comandi del presentatore
 
