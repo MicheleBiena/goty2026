@@ -1,0 +1,609 @@
+[
+  {
+    "id": "123312108",
+    "title": "Migliore Serie Live",
+    "nominees": [
+      {
+        "id": "123312108-1",
+        "name": "Look Outside",
+        "image": "assets/nominees/steam-3373660.jpg"
+      },
+      {
+        "id": "123312108-2",
+        "name": "No I'm Not A Human",
+        "image": "assets/nominees/steam-3180070.jpg"
+      },
+      {
+        "id": "123312108-3",
+        "name": "Resident Evil: Requiem",
+        "image": "assets/nominees/steam-3764200.jpg"
+      },
+      {
+        "id": "123312108-4",
+        "name": "Evergreen 5: Fallout New Vegas",
+        "image": "assets/nominees/steam-22380.jpg"
+      },
+      {
+        "id": "123312108-5",
+        "name": "Chants of Sennaar",
+        "image": "assets/nominees/steam-1931770.jpg"
+      },
+      {
+        "id": "123312108-6",
+        "name": "Darwin's Paradox",
+        "image": "assets/nominees/steam-2989180.jpg"
+      },
+      {
+        "id": "123312108-7",
+        "name": "Mina The Hollower",
+        "image": "assets/nominees/steam-1875580.jpg"
+      },
+      {
+        "id": "123312108-8",
+        "name": "Deltarune capitolo 5",
+        "image": "assets/nominees/steam-1671210.jpg"
+      },
+      {
+        "id": "123312108-9",
+        "name": "Evergreen 6: Persona 5 Royal",
+        "image": "assets/nominees/steam-1687950.jpg"
+      },
+      {
+        "id": "123312108-10",
+        "name": "Neon White",
+        "image": "assets/nominees/steam-1533420.jpg"
+      },
+      {
+        "id": "123312108-11",
+        "name": "Omori",
+        "image": "assets/nominees/steam-1150690.jpg"
+      },
+      {
+        "id": "123312108-12",
+        "name": "Assassin's Creed 1",
+        "image": "assets/nominees/steam-15100.jpg"
+      },
+      {
+        "id": "123312108-13",
+        "name": "Assassin's Creed 2",
+        "image": "assets/nominees/steam-33230.jpg"
+      },
+      {
+        "id": "123312108-14",
+        "name": "Assassin's Creed Brotherhood",
+        "image": "assets/nominees/steam-48190.jpg"
+      },
+      {
+        "id": "123312108-15",
+        "name": "Minecraft: Cobbleverse",
+        "image": "assets/nominees/minecraft.jpg"
+      },
+      {
+        "id": "123312108-16",
+        "name": "Minecraft: Skyfrogs",
+        "image": "assets/nominees/minecraft.jpg"
+      },
+      {
+        "id": "123312108-17",
+        "name": "Big Walk",
+        "image": "assets/nominees/steam-1478500.jpg"
+      },
+      {
+        "id": "123312108-18",
+        "name": "Out Of Hands",
+        "image": "assets/nominees/steam-1839810.jpg"
+      }
+    ]
+  },
+  {
+    "id": "868664846",
+    "title": "Migliore Oneshot",
+    "nominees": [
+      {
+        "id": "868664846-1",
+        "name": "Look Outside (MallyGaming)",
+        "image": "assets/nominees/steam-3373660.jpg"
+      },
+      {
+        "id": "868664846-2",
+        "name": "Road96 (Ainyro)",
+        "image": "assets/nominees/steam-1466640.jpg"
+      },
+      {
+        "id": "868664846-3",
+        "name": "Creature Kitchen (MallyGaming)",
+        "image": "assets/nominees/steam-3097300.jpg"
+      },
+      {
+        "id": "868664846-4",
+        "name": "Fortnite (Wolfybobo)",
+        "image": "assets/nominees/fortnite.jpg"
+      },
+      {
+        "id": "868664846-5",
+        "name": "Prey (GemelliPix)",
+        "image": "assets/nominees/steam-480490.jpg"
+      },
+      {
+        "id": "868664846-6",
+        "name": "Neon White (Gibbotto)",
+        "image": "assets/nominees/steam-1533420.jpg"
+      },
+      {
+        "id": "868664846-7",
+        "name": "Zero Comico (Wolfybobo)",
+        "image": "assets/nominees/zero-comico.jpg"
+      },
+      {
+        "id": "868664846-8",
+        "name": "Big Walk (Gibbotto)",
+        "image": "assets/nominees/steam-1478500.jpg"
+      },
+      {
+        "id": "868664846-9",
+        "name": "Endacopia (MallyGaming)",
+        "image": "assets/nominees/steam-2684630.jpg"
+      },
+      {
+        "id": "868664846-10",
+        "name": "Ultrakill (S3rdnas)",
+        "image": "assets/nominees/steam-1229490.jpg"
+      },
+      {
+        "id": "868664846-11",
+        "name": "Out Of Hands (Gibbotto)",
+        "image": "assets/nominees/steam-1839810.jpg"
+      },
+      {
+        "id": "868664846-12",
+        "name": "Persona 5: Strikers (Wolfybobo)",
+        "image": "assets/nominees/steam-1382330.jpg"
+      },
+      {
+        "id": "868664846-13",
+        "name": "Legacy Of Kain: Soul Reaver (Gibbotto)",
+        "image": "assets/nominees/steam-2521380.jpg"
+      },
+      {
+        "id": "868664846-14",
+        "name": "Figment 2 Creed Valley (samminoplus)",
+        "image": "assets/nominees/steam-1085220.jpg"
+      }
+    ]
+  },
+  {
+    "id": "664463426",
+    "title": "Migliore Collab",
+    "nominees": [
+      {
+        "id": "664463426-1",
+        "name": "Bobo Night (Wolfy ingessato)",
+        "image": "assets/nominees/bobo-night.webp"
+      },
+      {
+        "id": "664463426-2",
+        "name": "Minecraft Skyfrogs (Wolfybobo)",
+        "image": "assets/nominees/skyfrogs.webp"
+      },
+      {
+        "id": "664463426-3",
+        "name": "Cobbleverse (Gibbotto e Wolfybobo)",
+        "image": "assets/nominees/cobbleverse.jpg"
+      },
+      {
+        "id": "664463426-4",
+        "name": "Big Walk (Gibbotto e Wolfybobo)",
+        "image": "assets/nominees/steam-1478500.jpg"
+      },
+      {
+        "id": "664463426-5",
+        "name": "Deltarune Veteran (Gibbotto e Red)",
+        "image": "assets/nominees/steam-1671210.jpg"
+      },
+      {
+        "id": "664463426-6",
+        "name": "Nigthreign (Gibbotto)",
+        "image": "assets/nominees/steam-2622380.jpg"
+      },
+      {
+        "id": "664463426-7",
+        "name": "Re5 Coop (GemelliPix)",
+        "image": "assets/nominees/steam-21690.jpg"
+      },
+      {
+        "id": "664463426-8",
+        "name": "Mally e il mio Pitone (MallyGaming)",
+        "image": "assets/nominees/mally-pitone.png"
+      },
+      {
+        "id": "664463426-9",
+        "name": "Veteran Monolive di LookOutside (MallyGaming)",
+        "image": "assets/nominees/steam-3373660.jpg"
+      },
+      {
+        "id": "664463426-10",
+        "name": "Grottoli e Cazzi su Marathon (GemelliPix e ImNabbo)",
+        "image": "assets/nominees/steam-3065800.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1276262471",
+    "title": "Miglior Beef",
+    "nominees": [
+      {
+        "id": "1276262471-1",
+        "name": "Vendi bene munizioni (vs Gemelli e Fallout)",
+        "image": "assets/nominees/munizioni.webp"
+      },
+      {
+        "id": "1276262471-2",
+        "name": "Leomet è morto, lunga vita a Leomet (vs Leomet)",
+        "image": "assets/nominees/leomet.jpg"
+      },
+      {
+        "id": "1276262471-3",
+        "name": "Ho creato dei mostri (vs Gibbo e Red nuovi deltarune fan)",
+        "image": "assets/nominees/mostri.jpg"
+      },
+      {
+        "id": "1276262471-4",
+        "name": "LE QUEST! (vs Gibbo nella Cobbleverse)",
+        "image": "assets/nominees/quest.png"
+      },
+      {
+        "id": "1276262471-5",
+        "name": "Qualcuno pensi alle vetrine (vs Rebs)",
+        "image": "assets/nominees/vetrine.jpg"
+      },
+      {
+        "id": "1276262471-6",
+        "name": "I phd son morti (vs PHD)",
+        "image": "assets/nominees/phd.png"
+      },
+      {
+        "id": "1276262471-7",
+        "name": "Gioco più grande della storia (vs GTA6)",
+        "image": "assets/nominees/gta6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "111712000",
+    "title": "Miglior Meme",
+    "nominees": [
+      {
+        "id": "111712000-1",
+        "name": "Phiero segue una religione particolare (Look Outside)",
+        "image": "assets/nominees/steam-3373660.jpg"
+      },
+      {
+        "id": "111712000-2",
+        "name": "Voglio solo parlargli... (Look Outside)",
+        "image": "assets/nominees/steam-3373660.jpg"
+      },
+      {
+        "id": "111712000-3",
+        "name": "Dexifil (Resident Evil: Requiem)",
+        "image": "assets/nominees/steam-3764200.jpg"
+      },
+      {
+        "id": "111712000-4",
+        "name": "FAAAAAAAAAAAAH (Resident Evil: Requiem)",
+        "image": "assets/nominees/steam-3764200.jpg"
+      },
+      {
+        "id": "111712000-5",
+        "name": "Il cavaliere è la chitarra (Deltarune Vet Run)",
+        "image": "assets/nominees/steam-1671210.jpg"
+      },
+      {
+        "id": "111712000-6",
+        "name": "La Bobo-lavagna (Deltarune Vet Run)",
+        "image": "assets/nominees/steam-1671210.jpg"
+      },
+      {
+        "id": "111712000-7",
+        "name": "Gli ABBA (Persona 5)",
+        "image": "assets/nominees/steam-1687950.jpg"
+      },
+      {
+        "id": "111712000-8",
+        "name": "Chi cazzo è Yusuke? (Persona 5)",
+        "image": "assets/nominees/steam-1687950.jpg"
+      },
+      {
+        "id": "111712000-9",
+        "name": "Sharp il goat (Perosna 5)",
+        "image": "assets/nominees/steam-1687950.jpg"
+      },
+      {
+        "id": "111712000-10",
+        "name": "Omori è una gay story (Omori)",
+        "image": "assets/nominees/steam-1150690.jpg"
+      },
+      {
+        "id": "111712000-11",
+        "name": "AMANANANANANANANANASASSIN (Assassin's Creed)",
+        "image": "assets/nominees/steam-15100.jpg"
+      },
+      {
+        "id": "111712000-12",
+        "name": "Leomet è live (Varie)",
+        "image": "assets/nominees/twitch-leomet.png"
+      },
+      {
+        "id": "111712000-13",
+        "name": "Canzoni di Pucho (Big Walk)",
+        "image": "assets/nominees/steam-1478500.jpg"
+      },
+      {
+        "id": "111712000-14",
+        "name": "La mamma di Luigi (Big Walk)",
+        "image": "assets/nominees/steam-1478500.jpg"
+      },
+      {
+        "id": "111712000-15",
+        "name": "Dale Zelda Dale Remake (Varie)",
+        "image": "assets/nominees/ocarina-remake.jpg"
+      },
+      {
+        "id": "111712000-16",
+        "name": "Mariiiiiiiia (Zero Comico)",
+        "image": "assets/nominees/zero-comico.jpg"
+      },
+      {
+        "id": "111712000-17",
+        "name": "Pelato o trapianto? Senza offesa (Skyfrogs)",
+        "image": "assets/nominees/skyfrogs.webp"
+      },
+      {
+        "id": "111712000-18",
+        "name": "La chaotic oneshot live (Out Of Hands, Deltarune, Pokopia, Zelda)",
+        "image": "assets/nominees/steam-1839810.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1008948052",
+    "title": "Best membro della lore (collab / call / incursioni)",
+    "nominees": [
+      {
+        "id": "1008948052-1",
+        "name": "Leomet",
+        "image": "assets/nominees/twitch-leomet.png"
+      },
+      {
+        "id": "1008948052-2",
+        "name": "Gibbo",
+        "image": "assets/nominees/gibbo.jpg"
+      },
+      {
+        "id": "1008948052-3",
+        "name": "Red",
+        "image": "assets/nominees/twitch-x_red_xxx.jpg"
+      },
+      {
+        "id": "1008948052-4",
+        "name": "Wolfy",
+        "image": "assets/nominees/twitch-wolfybobo.jpg"
+      },
+      {
+        "id": "1008948052-5",
+        "name": "MallyGaming",
+        "image": "assets/nominees/twitch-gamingmally.png"
+      },
+      {
+        "id": "1008948052-6",
+        "name": "GemelliPix",
+        "image": "assets/nominees/gemellipix.png"
+      }
+    ]
+  },
+  {
+    "id": "1537952530",
+    "title": "Trainer i giochi nuovi li prova (quanto bene Trainer ha gestito un gioco al suo lancio rispetto al resto di Twitch)",
+    "nominees": [
+      {
+        "id": "1537952530-1",
+        "name": "Resident Evil Requiem",
+        "image": "assets/nominees/steam-3764200.jpg"
+      },
+      {
+        "id": "1537952530-2",
+        "name": "Deltarune Capitolo 5",
+        "image": "assets/nominees/steam-1671210.jpg"
+      },
+      {
+        "id": "1537952530-3",
+        "name": "Big Walk",
+        "image": "assets/nominees/steam-1478500.jpg"
+      },
+      {
+        "id": "1537952530-4",
+        "name": "Ocarina of Time Remake",
+        "image": "assets/nominees/ocarina-remake.jpg"
+      },
+      {
+        "id": "1537952530-5",
+        "name": "Marathon",
+        "image": "assets/nominees/steam-3065800.jpg"
+      }
+    ]
+  },
+  {
+    "id": "12528539",
+    "title": "Migliori Pianti",
+    "nominees": [
+      {
+        "id": "12528539-1",
+        "name": "Omori Finale (duetto)",
+        "image": "assets/nominees/steam-1150690.jpg"
+      },
+      {
+        "id": "12528539-2",
+        "name": "Creature Kitchen (momento cane)",
+        "image": "assets/nominees/steam-3097300.jpg"
+      },
+      {
+        "id": "12528539-3",
+        "name": "Deltarune capitolo 5 (Thank you for watching my dream)",
+        "image": "assets/nominees/steam-1671210.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1146935305",
+    "title": "Content più atteso",
+    "nominees": [
+      {
+        "id": "1146935305-1",
+        "name": "Animus",
+        "image": "assets/nominees/animus-logo.png",
+        "imageFit": "contain"
+      },
+      {
+        "id": "1146935305-2",
+        "name": "Link's Awakening",
+        "image": "assets/nominees/links-awakening.jpg"
+      },
+      {
+        "id": "1146935305-3",
+        "name": "Metaphor: ReFantazio",
+        "image": "assets/nominees/steam-2679460.jpg"
+      },
+      {
+        "id": "1146935305-4",
+        "name": "Resident Evil Veronica",
+        "image": "assets/nominees/resident-evil-veronica.jpg"
+      },
+      {
+        "id": "1146935305-5",
+        "name": "Cassette Beasts 2002",
+        "image": "assets/nominees/steam-3802140.jpg"
+      },
+      {
+        "id": "1146935305-6",
+        "name": "Baldur's Gate Coop w\\ Gibbo e Wolfy",
+        "image": "assets/nominees/steam-1086940.jpg"
+      },
+      {
+        "id": "1146935305-7",
+        "name": "Elden Ring Convergence w\\ Gibbo",
+        "image": "assets/nominees/elden-convergence.jpg"
+      },
+      {
+        "id": "1146935305-8",
+        "name": "Evergreen 7: Metal Gear",
+        "image": "assets/nominees/metal-gear.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1022929596",
+    "title": "Best Utente (presi in ordine randomico dalla cima della leaderboard streamelements)",
+    "nominees": [
+      {
+        "id": "1022929596-1",
+        "name": "gibbotto_x_red",
+        "image": "assets/nominees/05-01.svg"
+      },
+      {
+        "id": "1022929596-2",
+        "name": "wolfybobo",
+        "image": "assets/nominees/05-02.svg"
+      },
+      {
+        "id": "1022929596-3",
+        "name": "s3rdnas",
+        "image": "assets/nominees/05-03.svg"
+      },
+      {
+        "id": "1022929596-4",
+        "name": "gamingmally",
+        "image": "assets/nominees/05-04.svg"
+      },
+      {
+        "id": "1022929596-5",
+        "name": "gemellipix",
+        "image": "assets/nominees/05-01.svg"
+      },
+      {
+        "id": "1022929596-6",
+        "name": "rebsart",
+        "image": "assets/nominees/05-02.svg"
+      },
+      {
+        "id": "1022929596-7",
+        "name": "x_red_xxx",
+        "image": "assets/nominees/05-03.svg"
+      },
+      {
+        "id": "1022929596-8",
+        "name": "samminoplus",
+        "image": "assets/nominees/05-04.svg"
+      },
+      {
+        "id": "1022929596-9",
+        "name": "luigilaser_27",
+        "image": "assets/nominees/05-01.svg"
+      },
+      {
+        "id": "1022929596-10",
+        "name": "capezzoly",
+        "image": "assets/nominees/05-02.svg"
+      },
+      {
+        "id": "1022929596-11",
+        "name": "pinomediterraneo",
+        "image": "assets/nominees/05-03.svg"
+      },
+      {
+        "id": "1022929596-12",
+        "name": "imnabbo",
+        "image": "assets/nominees/05-04.svg"
+      },
+      {
+        "id": "1022929596-13",
+        "name": "afkvalerik",
+        "image": "assets/nominees/05-01.svg"
+      },
+      {
+        "id": "1022929596-14",
+        "name": "giuliana969",
+        "image": "assets/nominees/05-02.svg"
+      },
+      {
+        "id": "1022929596-15",
+        "name": "upyron",
+        "image": "assets/nominees/05-03.svg"
+      },
+      {
+        "id": "1022929596-16",
+        "name": "faustrodah",
+        "image": "assets/nominees/05-04.svg"
+      },
+      {
+        "id": "1022929596-17",
+        "name": "royalexg",
+        "image": "assets/nominees/05-01.svg"
+      },
+      {
+        "id": "1022929596-18",
+        "name": "athenax_34",
+        "image": "assets/nominees/05-02.svg"
+      },
+      {
+        "id": "1022929596-19",
+        "name": "kris9__",
+        "image": "assets/nominees/05-03.svg"
+      },
+      {
+        "id": "1022929596-20",
+        "name": "magarisonoalessio",
+        "image": "assets/nominees/05-04.svg"
+      }
+    ],
+    "layout": "list"
+  }
+]
