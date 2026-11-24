@@ -6,9 +6,9 @@
   "publicModeEnabled": true,
   "soundEnabled": false,
   "logo": "assets/branding/logo.png",
-  "votingProvider": "google",
+  "votingProvider": "supabase",
   "supabase": {
-    "url": "",
-    "publishableKey": ""
+    "url": "https://eyqydinxdszsusbaqjwv.supabase.co",
+    "publishableKey": "sb_publishable_SRkBRT23AoM5e8-KjMjqdQ_2G00EFXx"
   }
 }
